@@ -1,0 +1,2 @@
+# springCloudConfig
+存放springCloud项目的配置文件，使用cloud config服务端获取
